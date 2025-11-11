@@ -1,0 +1,1 @@
+Core AI Libraries (Local Models)torchtransformersdiffusersaccelerateRequired by transformers/diffuserssafetensorssentencepieceprotobufRequired by SpeechT5 for speaker embeddingsdatasetsRequired for audio processingsoundfileVideo CreationmoviepyYouTube Data APIgoogle-api-python-clientgoogle-auth-httplib2
